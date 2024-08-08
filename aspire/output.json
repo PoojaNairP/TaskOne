@@ -1,0 +1,29 @@
+[ {
+  "manager" : {
+    "name" : "manoj",
+    "id" : 2
+  },
+  "employeeList" : [ {
+    "name" : "biju",
+    "id" : 27,
+    "managerName" : "manoj",
+    "managerId" : 2,
+    "stream" : "Management",
+    "designation" : "Account Manager",
+    "yearsOfExperience" : 19
+  } ]
+}, {
+  "manager" : {
+    "name" : "prakash",
+    "id" : 1
+  },
+  "employeeList" : [ {
+    "name" : "Raju",
+    "id" : 26,
+    "managerName" : "prakash",
+    "managerId" : 1,
+    "stream" : "Management",
+    "designation" : "Account Manager",
+    "yearsOfExperience" : 19
+  } ]
+} ]

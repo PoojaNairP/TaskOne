@@ -1,0 +1,110 @@
+[
+    {
+        "manager": {
+            "name": "prakash",
+            "id": 1
+        },
+        "EmployeeList": [
+            {
+                "name": "Raju",
+                "id": 26,
+                "managerName": "prakash",
+				"managerId" :1,
+                "stream": "Development",
+                "designation": "Developer",
+                "yearsOfExperience": 19
+            },
+			{
+                "name": "Saju",
+                "id": 27,
+                "managerName": "prakash",
+				"managerId" :1,
+                "stream": "Testing",
+                "designation": "Tester",
+                "yearsOfExperience": 20
+            },
+			{
+                "name": "Saju",
+                "id": 29,
+                "managerName": "prakash",
+				"managerId" :1,
+                "stream": "Development",
+                "designation": "Developer",
+                "yearsOfExperience": 2
+            }
+        ]
+    },
+    {
+        "manager": {
+            "name": "manoj",
+            "id": 2
+        },
+        "EmployeeList": [
+			{
+                "name": "biju",
+                "id": 21,
+                "managerName": "manoj",
+				"managerId" :2,
+                "stream": "Development",
+                "designation": "Developer",
+                "yearsOfExperience": 11
+            },
+			{
+                "name": "anil",
+                "id": 28,
+                "managerName": "manoj",
+				"managerId" :2,
+                "stream": "Development",
+                "designation": "Developer",
+                "yearsOfExperience": 13
+            },
+			{
+                "name": "Anna",
+                "id": 30,
+                "managerName": "manoj",
+				"managerId" :2,
+                "stream": "Testing",
+                "designation": "Tester",
+                "yearsOfExperience": 1
+            }
+			
+        ]
+    },
+	{
+        "manager": {
+            "name": "Rema",
+            "id": 3
+        },
+        "EmployeeList": [
+			{
+                "name": "binu",
+                "id": 31,
+                "managerName": "Rema",
+				"managerId" :3,
+                "stream": "Development",
+                "designation": "Developer",
+                "yearsOfExperience": 10
+            },
+			{
+                "name": "Arjun",
+                "id": 32,
+                "managerName": "Rema",
+				"managerId" :3,
+                "stream": "Development",
+                "designation": "Developer",
+                "yearsOfExperience": 5
+            },
+			{
+                "name": "Ken",
+                "id": 33,
+                "managerName": "Rema",
+				"managerId" :3,
+                "stream": "Testing",
+                "designation": "Tester",
+                "yearsOfExperience": 6
+            }
+			
+        ]
+    }
+	
+]
